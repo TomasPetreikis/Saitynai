@@ -10,7 +10,7 @@
   "author": "Tomas Petreikis",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^6.0.0",
     "body-parser": "^1.20.4",
     "express": "^4.22.1",
     "jsonwebtoken": "^8.5.1",
